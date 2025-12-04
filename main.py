@@ -4,3 +4,5 @@ def get_book_text(file_path):
 def main():
     text = get_book_text("books/frankenstein.txt")
     print(text)
+
+main()
